@@ -1,2 +1,2 @@
-# dogs-cats-image-classification-
-Relationship Between the Number of Layers and Filters Along With Data Augmentation on a Convolutional Neural Network and Prediction Accuracy
+# dogs-cats-image-classification
+A python tensorflow implementation of a convolutional neural network that classifies dogs and cats in images.
